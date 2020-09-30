@@ -2,3 +2,4 @@ hello githu
 thiisd line is edited by feature 2 branch
 
 another modification 2 in feature 2
+Edit in feature-2 branch.
